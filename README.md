@@ -7,30 +7,25 @@ This project is a simple TCP-based chat application implemented in Java. It cons
 ### 1. Compile Java Files
 First, compile the Java files using the Java compiler (javac):
 
-```javac Server.java
-javac Client.java
-```
+```javac Server.java ```
+```javac Client.java```
 
-arduino
-Copy code
 
 ### 2. Run the Server
 Run the server program by executing the `Server` class:
-
+```
 java Server
+```
 
-csharp
-Copy code
 
 You should see a message indicating that the server is listening on port 5000.
 
 ### 3. Run the Client
 Open another terminal or command prompt window, and run the client program by executing the `Client` class:
-
+```
 java Client
+```
 
-sql
-Copy code
 
 You should see a message indicating that the client is connected to the server.
 
