@@ -35,3 +35,6 @@ Now, you can start typing messages in the client window. Each message will be se
 ## Notes
 - Make sure both the server and client are running on the same machine or reachable over the network.
 - You can modify the code to change the port number or handle multiple clients concurrently.
+
+<img width="760" alt="image" src="https://github.com/234Kavya/TCP-Chat-Application/assets/114131677/07bb5e90-6456-4d29-8921-fc6ac0d5646e">
+
